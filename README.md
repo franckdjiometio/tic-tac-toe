@@ -6,4 +6,4 @@
 
 ## Preview
 
-![Tic-tac-toe example image](tictactoe.svg)
+![Tic-tac-toe example image](images/tictactoe.svg)
