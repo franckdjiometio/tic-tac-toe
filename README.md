@@ -14,9 +14,9 @@ Tic-Tac-Toe, also known as Noughts and Crosses, is a simple two-player game. Her
 
 1. **Game Board:** The game is played on a grid that's 3 squares by 3 squares.
 
-2. Players: There are two players in the game. One plays as 'X', and the other as 'O'.
+2. **Players:** There are two players in the game. One plays as 'X', and the other as 'O'.
 
-3. Objective: The goal is to be the first player to get 3 of your marks in a row (up, down, across, or diagonally).
+3. **Objective:** The goal is to be the first player to get 3 of your marks in a row (up, down, across, or diagonally).
 
 4. **Game Play:**
     * Players take turns putting their marks in empty squares.
